@@ -1,0 +1,57 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "O nas",
+      "url": "/about"
+    },
+    {
+      "name": "Kariera",
+      "url": "/career"
+    },
+    {
+      "name": "Produkty",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Integracje",
+          "url": "/integrations"
+        },
+
+        {
+          "name": "SkillForge LMS",
+          "url": "/skillforge"
+        },
+        {
+          "name": "Relatio CRM",
+          "url": "/relatio"
+        }
+      
+      ]
+    },
+    {
+      "name": "Kontakt",
+      "url": "/kontakt"
+    }
+  ],
+
+  "footer": [
+    {
+      "name": "O nas",
+      "url": "/"
+    },
+    {
+      "name": "Kontakt",
+      "url": "/kontakt"
+    },
+
+    {
+      "name": "Nowości",
+      "url": "/nowosci"
+    }
+  ]
+}
